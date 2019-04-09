@@ -1,0 +1,23 @@
+.lado1{
+	background-color:DodgerBlue;
+	color: white;
+	width:500;
+	height:600;
+}
+
+.lado2{
+	background-color: red;
+	color: white;
+	position: relative; 
+	top: 70px; 
+	width:500;
+	height:600;
+}
+.lado3{
+	background-color: black;
+	color: white;
+	position: relative; 
+	top: 140px; 
+	width:500;
+	height:600;
+}
